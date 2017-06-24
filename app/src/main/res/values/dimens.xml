@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Text Size -->
+    <dimen name="text_size_20">20sp</dimen>
+    <dimen name="text_size_16">16sp</dimen>
+
+    <!-- Margin and padding -->
+    <dimen name="margin_padding_16dp">16dp</dimen>
+    <dimen name="margin_padding_8dp">8dp</dimen>
+</resources>

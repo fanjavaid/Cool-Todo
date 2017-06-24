@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Cool ToDo</string>
+
+    <!-- List item Strings -->
+    <string name="placeholder_todo_title">Finish Learning Android Development</string>
+    <string name="placeholder_todo_summary">Lorem ipsum dolor sit amet constectuar</string>
+    <string name="placeholder_todo_date">21 May 2017</string>
+
+    <!-- Actions -->
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+
+    <!-- Dialog -->
+    <string name="dialog_title_confirmation">Confirmation</string>
+    <string name="dialog_message_confirmation">Are you sure?</string>
+    <string name="dialog_positive_button">Ok</string>
+    <string name="dialog_negative_button">Cancel</string>
+
+    <string name="dialog_title_info">Information</string>
+    <string name="dialog_message_info_success">Successfully saved!</string>
+    <string name="dialog_message_info_success_updated">%s Successfully updated!</string>
+
+    <!-- Form -->
+    <string name="text_button_add">Add New Task</string>
+    <string name="text_button_edit">Update Task</string>
+
+    <!-- Form Hint -->
+    <string name="placeholder_title">Task title</string>
+    <string name="placeholder_description">Description</string>
+
+    <!-- Preferences -->
+    <string name="pref_show_date_key">show_date</string>
+    <string name="pref_show_date_label">Show Date in List</string>
+    <string name="pref_show_date_on">Show</string>
+    <string name="pref_show_date_off">Hidden</string>
+
+    <string name="pref_max_key">max_item</string>
+    <string name="pref_max_label">Max Number Items</string>
+</resources>

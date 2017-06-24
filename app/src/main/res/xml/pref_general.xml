@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <CheckBoxPreference
+        android:id="@+id/pref_show_date"
+        android:key="@string/pref_show_date_key"
+        android:title="@string/pref_show_date_label"
+        android:summaryOn="@string/pref_show_date_on"
+        android:summaryOff="@string/pref_show_date_off"
+        android:defaultValue="true"/>
+
+    <EditTextPreference
+        android:key="@string/pref_max_key"
+        android:title="@string/pref_max_label"
+        tools:summary="20"
+        android:defaultValue="20"/>
+</PreferenceScreen>
